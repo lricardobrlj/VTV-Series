@@ -9,7 +9,15 @@
 <channels>
 <channel>
 <name>2 Temporada</name>
-<thumbnail>https://image.tmdb.org/t/p/w342/wNOdNgqoySuWbQk3F0QZjPKp8X7.jpg</thumbnail>
+<thumbnail>https://images.justwatch.com/poster/25150172/s718</thumbnail>
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Game%20of%20Thrones%202%C2%AA%20Temporada</externallink>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>3 Temporada</name>
+<thumbnail>https://images.justwatch.com/poster/25467225/s718</thumbnail>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Game%20of%20Thrones%203%C2%AA%20Temporada</externallink>
 </channel>
 </channels>
