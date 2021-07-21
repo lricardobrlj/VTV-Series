@@ -5,3 +5,11 @@
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/American%20Gods%201%20Temporada</externallink>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>2 Temporada</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/4l8Vnbb7e5QA6bAItMqQIHXLRgc.jpg</thumbnail>
+<externallink></externallink>
+</channel>
+</channels>
