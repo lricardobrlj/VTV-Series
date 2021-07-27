@@ -5,3 +5,11 @@
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Rick%20e%20Morty%201%20temporada</externallink>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>2 Temporada</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/zkhGdE29umuKwa6u6mm7e4cXvYY.jpg</thumbnail>
+<externallink></externallink>
+</channel>
+</channels>
