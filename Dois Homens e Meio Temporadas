@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>1 Temporada</name>
-<thumbnail>https://i.imgur.com/xhWofxc.png</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w154/9NmUF41Izd5E4k69g4klkoh4zTb.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Dois%20Homens%20e%20meio%201%20Temporada</externallink>
 </channel>
 </channels>
@@ -9,7 +9,7 @@
 <channels>
 <channel>
 <name>2 Temporada</name>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/71CScZ%2BVFRL._SY445_.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w154/l03f6HTmnc82LlDCvR2q6pfWO87.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Dois%20Homens%20e%20meio%202%20Temporada</externallink>
 </channel>
 </channels>
@@ -17,7 +17,7 @@
 <channels>
 <channel>
 <name>3 Temporada</name>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51G%2B5krjhKL._AC_SY445_.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w154/I5Hhdvc5UIEyhgpRoNPqj99H49.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Dois%20Homens%20e%20meio%203%20Temporada</externallink>
 </channel>
 </channels>
@@ -25,7 +25,7 @@
 <channels>
 <channel>
 <name>4 Temporada</name>
-<thumbnail>http://3.bp.blogspot.com/_ViqW9zb9utA/TP_oL3jkPpI/AAAAAAAAAXs/nKRidfnbf6o/s1600/2homess04.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w154/kcYIXEat3fR5FoVt4dbzQSnUDa6.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Dois%20Homens%20e%20meio%204%20Temporada</externallink>
 </channel>
 </channels>
@@ -33,7 +33,7 @@
 <channels>
 <channel>
 <name>5 Temporada</name>
-<thumbnail>https://image.tmdb.org/t/p/w342/g52E3BZ6jKydQVxoGM15ePOEFXg.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w154/g52E3BZ6jKydQVxoGM15ePOEFXg.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Dois%20Homens%20e%20meio%205%20Temporada</externallink>
 </channel>
 </channels>
@@ -41,7 +41,7 @@
 <channels>
 <channel>
 <name>6 Temporada</name>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/4/4c/Two_and_a_Half_Men_%286%C2%AA_temporada%29.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w154/kQ2h5wcreCJK7zJMJnAJjjY7rWK.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Dois%20Homens%20e%20meio%206%20Temporada</externallink>
 </channel>
 </channels>
@@ -49,7 +49,7 @@
 <channels>
 <channel>
 <name>7 Temporada</name>
-<thumbnail>https://i.imgur.com/aHpP4Db.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w154/psgfTx3DYM8h8KDXGaHyvFmxroo.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Dois%20Homens%20e%20meio%207%20Temporada</externallink>
 </channel>
 </channels>
@@ -57,7 +57,7 @@
 <channels>
 <channel>
 <name>8 Temporada</name>
-<thumbnail>https://br.web.img3.acsta.net/pictures/19/08/22/20/01/5499677.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w154/lV8h3H9IJQU8hqnsjwwg5td2SGA.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Dois%20Homens%20e%20meio%208%20Temporada</externallink>
 </channel>
 </channels>
@@ -65,7 +65,7 @@
 <channels>
 <channel>
 <name>9 Temporada</name>
-<thumbnail>https://images.justwatch.com/poster/8606717/s592</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w154/qBpw1BaMtzXnk9MWRr4dQH2KVDB.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Dois%20Homens%20e%20meio%209%20Temporada</externallink>
 </channel>
 </channels>
@@ -73,7 +73,15 @@
 <channels>
 <channel>
 <name>10 Temporada</name>
-<thumbnail>https://br.web.img3.acsta.net/pictures/19/08/22/20/02/3843396.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w154/r2qiOEQcI9tSIk9KiJfuQ8hmPp7.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Dois%20Homens%20e%20meio%2010%20Temporada</externallink>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>11 Temporada</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/qH1E5VDtEHZFtOIYHajTe31JUHm.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Dois%20Homens%20e%20meio%2011%20Temporada</externallink>
 </channel>
 </channels>
