@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>1 Temporada</name>
-<thumbnail>https://images.justwatch.com/poster/170937444/s592</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w154/fFn80y3PPmCcTbIIjQS5ft0jNFc.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Sobrenatural%201%20Temporada</externallink>
 </channel>
 </channels>
@@ -9,7 +9,15 @@
 <channels>
 <channel>
 <name>2 Temporada</name>
-<thumbnail>https://images.justwatch.com/poster/244208292/s718</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w154/jBNKlaAm1ZEwZMdUg69Xy9zo7nM.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Sobrenatural%202%20Temporada</externallink>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>3 Temporada</name>
+<thumbnail>https://image.tmdb.org/t/p/w154/vDIg3XI9JHfEORxTWstO2seUyCw.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Sobrenatural%203%20Temporada</externallink>
 </channel>
 </channels>
