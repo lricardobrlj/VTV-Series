@@ -85,3 +85,11 @@
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Dois%20Homens%20e%20meio%2011%20Temporada</externallink>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>12 Temporada</name>
+<thumbnail>https://image.tmdb.org/t/p/w154/e3wQ7FuwycGsRus2IwtIWZuzhFg.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Dois%20Homens%20e%20meio%2012%20Temporada</externallink>
+</channel>
+</channels>
