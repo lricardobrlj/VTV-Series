@@ -21,3 +21,11 @@
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Rick%20e%20Morty%203%20temporada</externallink>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>4 Temporada</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/6HJLMj6zEP9DwAEXgxxjsOfHshY.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Rick%20e%20Morty%204%C2%AA%20Temporada</externallink>
+</channel>
+</channels>
