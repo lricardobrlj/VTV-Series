@@ -13,3 +13,11 @@
 <externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Rick%20e%20Morty%202%20temporada</externallink>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>3 Temporada</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/lVcwMfbHx4QguLbZT4bink9mcgd.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/lricardobrlj/VTV-Series/main/Rick%20e%20Morty%203%20temporada</externallink>
+</channel>
+</channels>
